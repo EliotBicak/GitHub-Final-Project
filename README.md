@@ -5,7 +5,7 @@ My goal for this project is to demonstrate that I know how to create an open-sou
 
 
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Create a calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
    p, principal amount
